@@ -1,0 +1,1 @@
+kafka is an open-source event streaming platform, used for publishing and processing events at high-throughput.
